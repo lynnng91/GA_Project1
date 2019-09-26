@@ -12,24 +12,34 @@ The mission of this assignment is:
 # Executive Summary
 
 1. SAT participation rates have grown strongly over the 2017-18 period whilst ACT participation has slightly declined
+
 - Average SAT participation rates have grown by ~5% over the 2017-18 period, and minimum participation rates have improved from a 2% participation rate to 8%
+
 -Average ACT participation rates have experienced a slight decline, which has mainly been due to Colorado students [favoring the SAT], which has resulted in a drop in participation from 100% in 2017 to 30% in 2018 (SAT participation rates for Colorado had increased from 11% to 100% in the same time period)
 
 2. Average total SAT scores and ACT composite had shown a year-on-year decline, although at a lower magnitude for the ACT
+
 -Average total SAT scores decreased to 1120 in 2018 from 1126 in the previous year, however min-max for total scores had improved. This suggests that whilst there are better candidates in this cohort compared to the previous year, there is a larger population of the cohort at the lower end of the spectrum (which is shown by a lower 50% percentile result)
+
 -There was a small decline in average composite scores for the ACT (from 21.51 to 21.49) however is negligible given its low magnitude. Candidates at the lower end of the spectrum showed some improvement, with 25% quartile scores showing a ~0.2 score improvement.
 
 3. Median household income and overall ethnicity of the state has little influence on overall participation rates and performance
+
 - Median household income showed little correlation to test participation rates and performance – which is a surprise as the initial hypothesis was that states that are more affluent would be able to afford additional tuition and test fees which would boost test performances and participation rates
+
 - Overall ethnicity also had little influence however this may be because the lower class ethnicity groups are not enrolled in school to begin with and is not considered within the population
 
 4. However, the ethnicity distribution of the candidate group seemed to influence test scores
+
 - Although data was limited, using the SAT 2018 candidate data, there was a strong correlation between student ethnicity and test scores – where states with a higher white population scored higher than states with a low to middle ratio of white population
+
 - In 2018, Colorado and Illinois switched over from ACT to SAT which has resulted in participation rates for the SAT to drastically increase from 2017-18
 
 
 5. In the past, state policy has been fairly successful in influencing participation rates and could be exercised to further encourage students to participate in standardized testing
+
 - To encourage higher participation rates, the College Board could encourage colleges to ensure potential applicants take a mandatory testing, or increase state funding to encourage students to participate or use state funding to provide additional tuition for the students who would otherwise not participate due to the lack of self-confidence.
+
 - Given that most colleges are moving away from standardized test scores, the best option may be to use funding and policies to influence participation rates
 
 # Data dictionary
