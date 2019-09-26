@@ -40,7 +40,7 @@ The mission of this assignment is:
 
 - Given that most colleges are moving away from standardized test scores, the best option may be to use funding and policies to influence participation rates
 
-# Data dictionary
+# Data Dictionary
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
 |state|object|ACT/SAT|US State|
