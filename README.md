@@ -14,12 +14,12 @@ The mission of this assignment is:
 1. SAT participation rates have grown strongly over the 2017-18 period whilst ACT participation has slightly declined
 
 - Average SAT participation rates have grown by ~5% over the 2017-18 period, and minimum participation rates have improved from a 2% participation rate to 8%
--Average ACT participation rates have experienced a slight decline, which has mainly been due to Colorado students [favoring the SAT], which has resulted in a drop in participation from 100% in 2017 to 30% in 2018 (SAT participation rates for Colorado had increased from 11% to 100% in the same time period)
+- Average ACT participation rates have experienced a slight decline, which has mainly been due to Colorado students [favoring the SAT], which has resulted in a drop in participation from 100% in 2017 to 30% in 2018 (SAT participation rates for Colorado had increased from 11% to 100% in the same time period)
 
 2. Average total SAT scores and ACT composite had shown a year-on-year decline, although at a lower magnitude for the ACT
 
--Average total SAT scores decreased to 1120 in 2018 from 1126 in the previous year, however min-max for total scores had improved. This suggests that whilst there are better candidates in this cohort compared to the previous year, there is a larger population of the cohort at the lower end of the spectrum (which is shown by a lower 50% percentile result)
--There was a small decline in average composite scores for the ACT (from 21.51 to 21.49) however is negligible given its low magnitude. Candidates at the lower end of the spectrum showed some improvement, with 25% quartile scores showing a ~0.2 score improvement.
+- Average total SAT scores decreased to 1120 in 2018 from 1126 in the previous year, however min-max for total scores had improved. This suggests that whilst there are better candidates in this cohort compared to the previous year, there is a larger population of the cohort at the lower end of the spectrum (which is shown by a lower 50% percentile result)
+- There was a small decline in average composite scores for the ACT (from 21.51 to 21.49) however is negligible given its low magnitude. Candidates at the lower end of the spectrum showed some improvement, with 25% quartile scores showing a ~0.2 score improvement.
 
 3. Median household income and overall ethnicity of the state has little influence on overall participation rates and performance
 
